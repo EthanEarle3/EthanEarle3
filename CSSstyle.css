@@ -21,7 +21,9 @@ p {
 }
 
 footer {
-    color: rgb(255, 255, 255);
+    background-color: #4d4d49;
+    color: #c0adad;
+    font-size: 20px;
     text-align: center;
     padding: 10px;
     bottom: 0;

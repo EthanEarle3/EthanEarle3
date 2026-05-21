@@ -1,5 +1,6 @@
 <html>
-<head> 
+<head>
+<link rel="stylesheet" href="CSSstyle.css"> 
 </head>
 <body>
    <h1> ## Hi there! 👋 My name is Ethan Earle and I am 20 years old    </h1>

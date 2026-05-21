@@ -1,6 +1,5 @@
 <html>
 <head> 
-    <title>README</title>
 </head>
 <body>
    <h1> ## Hi there! 👋 My name is Ethan Earle and I am 20 years old    </h1>

@@ -12,11 +12,23 @@ h1 {
     border-style: solid;
   border-bottom-width: 15px;
 }
-
+h2 {
+    color: #616bc1;
+    text-align: center;
+    border-style: solid;
+  border-bottom-width: 15px;
+}
 p {
     color: #3c77ad;
     font-size: 24px;
     line-height: 1.5;
+    margin: 20px 0;
+}
+section {
+    background-color: #c0adad;
+    color: #53789b;
+    padding: 20px;
+    border-radius: 10px;
     margin: 20px 0;
 }
 
